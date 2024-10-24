@@ -1,6 +1,6 @@
 ## $\color{gold} \Large \text{CF ProxyIP's}$
 >
-> :bulb: ~~proxyIP127.0.0.1~~ means the proxy is no longer working.
+> :bulb: ~~proxyIP127.0.0.1~~ means the proxy is no longer working ok
 
 
 ## What do we have here
